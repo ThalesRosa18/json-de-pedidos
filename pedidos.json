@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "cliente": "Gilza",
+    "entrega": "20/05/2026"
+  },
+  {
+    "id": 2,
+    "cliente": "Thiago",
+    "entrega": "20/06/2026"
+  },
+  {
+    "id": 3,
+    "cliente": "Gilson",
+    "entrega": "20/07/2026"
+  }
+]
